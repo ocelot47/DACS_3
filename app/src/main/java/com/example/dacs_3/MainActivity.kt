@@ -9,4 +9,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
-// Lực nè mới nhập 1/4 22h15
+// Lực nè mới nhập 1/4 22h30
